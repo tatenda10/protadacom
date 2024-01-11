@@ -53,7 +53,7 @@ const Casestudies = () => {
             <p>
               We partnered with Apertscribe to create a sophisticated e-commerce platform that marries aesthetics with performance. Our etique design ensures a visually captivating experience, showcasing craftsmanship at its finest. With optimized performance, secure transactions, and a mobile-first approach, we've elevated the online shopping journey. Explore the new standard in furniture e-commerce with Apertscribe
             </p>
-            <a href='https://apertscribe.co.zw' target='_blank' className='text-end text-[#57007B]'>
+            <a href='https://apertscribe.co.zw' target='_blank' rel="noreferrer" className='text-end text-[#57007B]'>
               Read more <ArrowForwardIcon />
             </a>
           </div>
@@ -75,7 +75,7 @@ const Casestudies = () => {
             <p>
               We launched the Universal FX app, a game-changer in the world of Forex trading. Experience an intuitive interface, real-time market data, and secure transactions. With personalized alerts and user-friendly account management, Universal FX, developed by us, is setting a new standard in accessible and innovative Forex tradin
             </p>
-            <a href='https://play.google.com/store' target='_blank' className='text-end text-[#57007B]'>
+            <a href='https://play.google.com/store' target='_blank' rel="noreferrer" className='text-end text-[#57007B]'>
               Read more <ArrowForwardIcon />
             </a>
           </div>
@@ -96,7 +96,7 @@ const Casestudies = () => {
             <h1 className='font-bold'> Property ZW Software Mantainance</h1>
             <p>
               We proudly undertook the responsibility of enhancing the digital presence of PropertyZW, a premier real estate website. Our dedicated team engaged in meticulous software maintenance to ensure a seamless and efficient user experience. By implementing strategic updates and optimizations, we've fortified PropertyZW with improved functionality, faster performance, and enhanced security. This commitment to software maintenance not only guarantees a smooth operation but also positions PropertyZW at the forefront of innovation in the competitive real estate market.            </p>
-            <a href='https://www.property.co.zw' target='_blank' className='text-end text-[#57007B]'>
+            <a href='https://www.property.co.zw' target='_blank' rel="noreferrer" className='text-end text-[#57007B]'>
               Read more <ArrowForwardIcon />
             </a>
           </div>
@@ -130,7 +130,7 @@ const Casestudies = () => {
             <div className='bg-white flex p-5 md:w-[500px]'>
               <div>
                 <div className='bg-[#68DBF2] rounded-md w-[50px] h-[50px] flex items-center justify-center'>
-                  <img src={development} placeholder='ux ' />
+                  <img src={development} placeholder='ux ddddd ' />
                 </div>
               </div>
 
